@@ -1,0 +1,16 @@
+# Build output
+*.vsix
+
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/

@@ -1,0 +1,64 @@
+{
+  "name": "formosa-theme",
+  "displayName": "Formosa Theme",
+  "description": "A theme inspired by Porsche 911 Carrera T Formosa Taiwan Limited Edition. Colors extracted from Ipanema Blue, Night Green, Truffle Brown, and Cream White.",
+  "version": "1.0.0",
+  "publisher": "takeshiyu",
+  "author": {
+    "name": "Takeshi Yu",
+    "email": "hey@ywh.sh"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takeshiyu/formosa-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/takeshiyu/formosa-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/takeshiyu/formosa-vscode-theme#readme",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "porsche",
+    "taiwan",
+    "formosa",
+    "dark",
+    "light"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1a1d23",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Formosa Light - Ipanema Blue",
+        "uiTheme": "vs",
+        "path": "./themes/formosa-light-ipanema-blue.json"
+      },
+      {
+        "label": "Formosa Light - Night Green",
+        "uiTheme": "vs",
+        "path": "./themes/formosa-light-night-green.json"
+      },
+      {
+        "label": "Formosa Dark - Ipanema Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/formosa-dark-ipanema-blue.json"
+      },
+      {
+        "label": "Formosa Dark - Night Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/formosa-dark-night-green.json"
+      }
+    ]
+  }
+}
