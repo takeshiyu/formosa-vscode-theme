@@ -57,7 +57,3 @@ Colors extracted from the Porsche 911 Carrera T "Formosa" Taiwan Limited Edition
 ## License
 
 [MIT](LICENSE)
-
-## Author
-
-[Takeshi Yu](https://github.com/takeshiyu)
