@@ -38,17 +38,17 @@ Colors extracted from the Porsche 911 Carrera T "Formosa" Taiwan Limited Edition
 
 ## Screenshots
 
-### Formosa Dark - Ipanema Blue
-![Dark Ipanema Blue](screenshots/dark-ipanema-blue.png)
-
-### Formosa Dark - Night Green
-![Dark Night Green](screenshots/dark-night-green.png)
-
 ### Formosa Light - Ipanema Blue
 ![Light Ipanema Blue](screenshots/light-ipanema-blue.png)
 
 ### Formosa Light - Night Green
 ![Light Night Green](screenshots/light-night-green.png)
+
+### Formosa Dark - Ipanema Blue
+![Dark Ipanema Blue](screenshots/dark-ipanema-blue.png)
+
+### Formosa Dark - Night Green
+![Dark Night Green](screenshots/dark-night-green.png)
 
 ## Also Available For
 
